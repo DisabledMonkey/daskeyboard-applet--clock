@@ -2,8 +2,6 @@
 
 Displays the time on a Das Keyboard Q Series.
 
-[GitHub repository](https://github.com/DisabledMonkey/daskeyboard-applet--clock)
-
 ## Example
 
 Displays the time on your keyboard. 
