@@ -15,7 +15,7 @@ class Clock extends q.DesktopApp {
   async run() {
     let time = moment();
     let formatted = time.format('h:mm a');
-    console.log(this);
+    // console.log(this);
     return new q.Signal({
       points: this.generatePoints(time),
       name: 'Das Clock',
