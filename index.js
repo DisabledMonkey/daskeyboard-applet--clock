@@ -18,7 +18,7 @@ class Clock extends q.DesktopApp {
     // console.log(this);
     return new q.Signal({
       points: this.generatePoints(time),
-      name: 'Das Clock',
+      name: 'Clock',
       message: 'The time is '+formatted,
       isMuted: true,
     });
