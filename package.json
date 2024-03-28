@@ -1,7 +1,7 @@
 {
   "name": "daskeyboard-applet--clock",
   "displayName": "Clock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Displays the time.",
   "longDescription": "Keep an eye on the time on your Q keyboard!",
   "officialProductName": "Clock",
@@ -30,10 +30,9 @@
     "das-keyboard-q": "3.0.0"
   },
   "dependencies": {
-    "daskeyboard-applet": "^2.7.12",
-    "mocha": "^5.2.0",
-    "os-utils": "^0.0.14",
-    "request": "^2.88.0"
+    "daskeyboard-applet": "^2.11.5",
+    "mocha": "^10.4.0",
+    "moment": "^2.30.1"
   },
   "qConfig": {
     "geometry": {
