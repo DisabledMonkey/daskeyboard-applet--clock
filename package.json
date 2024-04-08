@@ -27,7 +27,7 @@
     "test": "mocha"
   },
   "engines": {
-    "das-keyboard-q": "3.0.0"
+    "das-keyboard-q": "4.0.0"
   },
   "dependencies": {
     "daskeyboard-applet": "^2.11.5",
